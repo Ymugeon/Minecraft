@@ -3,7 +3,7 @@
 <body>
     <header>
         <h1>Minecraft Fanseite</h1>
-        <h1>Von NMG</h1>
+        <h3>Von NMG</h3>
     </header>
     <nav>
         <a href="#news">News</a>
@@ -25,8 +25,8 @@
         <h2>Bilder & Gifs</h2>
         <div class="bilder-gallery">
             <h3>Bilder</h3>
-            <h1>![Designer (2)](https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)
-</h1>
+            <h3>(https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)
+</h3>
         </div>
         <div class="gif-gallery">
             <h3>Gifs</h3>
