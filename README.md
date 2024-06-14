@@ -1,74 +1,9 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minecraft Fanseite</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header, nav, section, footer {
-            padding: 20px;
-        }
-        header {
-            background-color: #444;
-            color: #fff;
-            text-align: center;
-        }
-        nav {
-            background-color: #555;
-            color: #fff;
-            text-align: center;
-        }
-        nav a {
-            color: #fff;
-            margin: 0 15px;
-            text-decoration: none;
-        }
-        #news {
-            background-color: #d1c4e9;
-            color: #000;
-        }
-        #bilder {
-            background-color: #bbdefb;
-            color: #000;
-        }
-        #info {
-            background-color: #c8e6c9;
-            color: #000;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .bilder-gallery img {
-            max-width: 100%;
-            height: auto;
-            margin: 10px 0;
-        }
-        .gif-gallery img {
-            max-width: 100%;
-            height: auto;
-            margin: 10px 0;
-        }
-        .news-post {
-            margin-bottom: 20px;
-        }
-        footer {
-            background-color: #444;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-        }
-    </style>
+
 </head>
 <body>
     <header>
         <h1>Minecraft Fanseite</h1>
+        <h1>Von NMG</h1>
     </header>
     <nav>
         <a href="#news">News</a>
@@ -90,9 +25,8 @@
         <h2>Bilder & Gifs</h2>
         <div class="bilder-gallery">
             <h3>Bilder</h3>
-            <img src="https://example.com/image1.jpg" alt="Minecraft Bild 1">
-            <img src="https://example.com/image2.jpg" alt="Minecraft Bild 2">
-            <img src="https://example.com/image3.jpg" alt="Minecraft Bild 3">
+            <h1>![Designer (2)](https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)
+</h1>
         </div>
         <div class="gif-gallery">
             <h3>Gifs</h3>
