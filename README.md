@@ -24,7 +24,6 @@
     <section id="bilder" class="container">
         <h2>Bilder</h2>
         <div class="bilder-gallery">
-            <h3>Bilder</h3>
             <h4>(https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)<h4>
             <h4>(https://github.com/Ymugeon/Minecraft/assets/172655085/7471acab-c701-43ec-be9b-1afe5799d583)<h4>
         </div>
