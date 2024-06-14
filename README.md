@@ -30,8 +30,8 @@
         </div>
         <div class="gif-gallery">
             <h3>Gifs</h3>
-            <img src="https://example.com/animation1.gif" alt="Minecraft Gif 1">
-            <img src="https://example.com/animation2.gif" alt="Minecraft Gif 2">
+            <h4>![image](https://github.com/Ymugeon/Minecraft/assets/172655085/fc82bb94-d434-42c1-a1f6-cc3a321e6ff3)
+</h4>  
         </div>
     </section>
     <section id="info" class="container">
