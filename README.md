@@ -25,8 +25,8 @@
         <h2>Bilder & Gifs</h2>
         <div class="bilder-gallery">
             <h3>Bilder</h3>
-            <h3>(https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)
-</h3>
+            <h4>(https://github.com/Ymugeon/Minecraft/assets/172655085/579ef957-bdc2-4c12-b957-381825cec487)
+</h4>
         </div>
         <div class="gif-gallery">
             <h3>Gifs</h3>
